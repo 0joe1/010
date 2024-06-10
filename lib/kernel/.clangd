@@ -1,0 +1,6 @@
+ CompileFlags:
+  Add:
+    - -I../../kernel
+    - -I../../lib
+    - -I../../device
+    - -m32

@@ -1,0 +1,5 @@
+block_bitmap:0x802 1049600
+inode_bitmap:0x80a 1053696
+inode_array:0x80b 1054208
+data_start:0xa6b 1365504
+

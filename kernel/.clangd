@@ -1,0 +1,13 @@
+ CompileFlags:
+  Add:
+    - -I../thread
+    - -I../lib
+    - -I../lib/kernel
+    - -I../lib/usr
+    - -I../device
+    - -I../fs
+    - -I../userprog
+    - -I../she
+    - -I../kernel
+    - -m32
+
